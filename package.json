@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cron": "^2.1.0",
+    "deasync": "^0.1.28",
+    "request": "^2.88.2"
+  }
+}
